@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (man-width: 600px) {
+    #navbar {
+        position: relative;
+        left: auto;
+        visibility: visible;
+        
+    }
+  }
+
+  #navbar {    
+    display: none;
+}
+
+  
+
+
+
